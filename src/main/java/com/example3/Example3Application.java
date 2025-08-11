@@ -14,7 +14,7 @@ public class Example3Application {
         System.out.println("Uppercase: " + message.toUpperCase(Locale.ROOT));
         System.out.println("Lowercase: " + message.toLowerCase(Locale.ROOT));
         System.out.println("Length: " + message.length());
-
+        System.out.println("hello");
         System.out.println("Current Time: " + LocalDateTime.now());
     }
 
